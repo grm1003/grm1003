@@ -18,8 +18,8 @@
 
   <div align="center">
 
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=grm1003a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grm1003a&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=grm1003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grm1003&layout=compact&langs_count=7&theme=dracula"/>
      <br><br>
 </div>
  
