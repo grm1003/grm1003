@@ -2,7 +2,7 @@
 <div "display: row">
  🔭 Hoje meu foco é o Backend <br>
  🔭 A caminho de me torna um Full Stack<br>
- 🌱 Estou estudando Spring Boot com Java<br>
+ 🌱 Estou estudando Spring Boot com Java e Angular<br>
  🌱 Universitário - Sistemas de Informação na UFU<br>
  📫 Informações de contato: grm1003@gmail.com <br>
  
