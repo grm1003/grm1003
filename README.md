@@ -1,4 +1,4 @@
-### Oiá!! Eu sou o Gabriel Machado!
+### Olá!! Eu sou o Gabriel Machado!
 <div "display: row">
  🔭 Hoje meu foco é o Backend <br>
  🔭 A caminho de me torna um Full Stack<br>
