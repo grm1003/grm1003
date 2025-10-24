@@ -1,10 +1,12 @@
 ### Hi! I'm Gabriel Machado 👋
 
-Backend-focused **Software Analyst** (Java + Spring Boot) building scalable, resilient microservices with **Azure**, **Kafka**, and **MS SQL Server**. I also ship front-end features in **Angular** as I move toward a solid **Full-Stack** profile. :contentReference[oaicite:0]{index=0}  
-Currently contributing to **Generative AI (LLM)** initiatives to streamline internal tech workflows at **Bradesco**. :contentReference[oaicite:1]{index=1}  
-🎓 **B.S. in Information Systems — UFU** (expected Dec/2025). :contentReference[oaicite:2]{index=2}  
-
-**Contact:** grm1003@gmail.com • **GitHub:** https://github.com/grm1003 • **LinkedIn:** https://linkedin.com/in/gabriel-rezende-machado-920b18183
+🔭 Backend-focused **Software Analyst** (Java + Spring Boot) building scalable, resilient microservices with **Azure**, **Kafka**, and **MS SQL Server**. <br>
+🌐 I also ship front-end features in **Angular** as I move toward a solid **Full-Stack** profile. <br>
+🤖 Currently contributing to **Generative AI (LLM)** initiatives to streamline internal tech workflows at **Bradesco**. <br>
+🎓 **B.S. in Information Systems — UFU**. <br>
+📫 **Contact:** grm1003@gmail.com <br>
+💻 **GitHub:** https://github.com/grm1003 <br>
+🔗 **LinkedIn:** https://linkedin.com/in/gabriel-rezende-machado-920b18183
 
 ---
 
