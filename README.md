@@ -1,65 +1,67 @@
-### Olá!! Eu sou o Gabriel Machado!
-<div "display: row">
- 🔭 Hoje meu foco é o Backend <br>
- 🔭 A caminho de me torna um Full Stack<br>
- 🌱 Estou estudando Spring Boot com Java e Angular<br>
- 🌱 Universitário - Sistemas de Informação na UFU<br>
- 📫 Informações de contato: grm1003@gmail.com <br>
- 
- </div><br>
- <div >
-  <a href="https://github.com/grm1003">
-</div>
+### Hi! I'm Gabriel Machado 👋
+
+Backend-focused **Software Analyst** (Java + Spring Boot) building scalable, resilient microservices with **Azure**, **Kafka**, and **MS SQL Server**. I also ship front-end features in **Angular** as I move toward a solid **Full-Stack** profile. :contentReference[oaicite:0]{index=0}  
+Currently contributing to **Generative AI (LLM)** initiatives to streamline internal tech workflows at **Bradesco**. :contentReference[oaicite:1]{index=1}  
+🎓 **B.S. in Information Systems — UFU** (expected Dec/2025). :contentReference[oaicite:2]{index=2}  
+
+**Contact:** grm1003@gmail.com • **GitHub:** https://github.com/grm1003 • **LinkedIn:** https://linkedin.com/in/gabriel-rezende-machado-920b18183
+
+---
 
 <div>
-  <a href="https://www.instagram.com/gabrielrmachado_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/gabriel-rezende-machado-920b18183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-
-  <div align="center">
-
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=grm1003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grm1003&layout=compact&langs_count=7&theme=dracula"/>
-     <br><br>
+  <a href="https://github.com/grm1003" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-grm1003-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.instagram.com/gabrielrmachado_/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-rezende-machado-920b18183/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
- 
- # Tecnologias e Linguagens
 
-> FrontEnd
-<br>
-<div align="center" style="display: inline_block;">
- 
-  <img  align="center" alt="Gabriel-Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
-  <img align="center" alt="Gabriel-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Gabriel-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Gabriel-JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Gabriel-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
+---
+
+<div align="center">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=grm1003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img align="center" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grm1003&layout=compact&langs_count=7&theme=dracula" />
+  <br /><br />
 </div>
-<br>
 
-#
+## Tech Stack
 
-> BackEnd 
-<br>
-<div align="center" style="display: inline_block;">
-  <img align="center" alt="Gabriel-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
- <img align="center" alt="Gabriel-C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
- <img align="center" alt="Gabriel-Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
-  <img align="center" alt="Gabriel-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Gabriel-SpringBoot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-  <img align="center" alt="Gabriel-Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
-  <img align="center" alt="Gabriel-Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
-  <img align="center" alt="Gabriel-MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
-   <img align="center" alt="Gabriel-MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
+### Backend
+<div style="display: inline_block;">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img alt="MS SQL Server" src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-<br>
- 
-  # Ferramentas
- <br>
- <div align="center" style="display: inline_block;">
-  <img align="center" alt="Gabriel-vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" alt="Gabriel-intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img align="center" alt="Gabriel-eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-  <img align="center" alt="Gabriel-repleit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white">
-  <img align="center" alt="Gabriel-postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  </div>
+
+### Frontend
+<div style="display: inline_block;">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
+
+### Cloud & DevOps
+<div style="display: inline_block;">
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />
+</div>
+
+---
+
+> *Keywords:* Java • Spring Boot • Microservices • Azure Service Bus • Apache Kafka • MS SQL Server • Angular • REST APIs • LLMs / Generative AI
+
