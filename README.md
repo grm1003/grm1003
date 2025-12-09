@@ -26,9 +26,12 @@ I engineer high-throughput systems for the financial sector, designing secure, e
 ---
 
 <div align="center">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=grm1003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img align="center" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grm1003&layout=compact&langs_count=7&theme=dracula" />
-  <br /><br />
+  <a href="https://github.com/grm1003">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grm1003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grm1003&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grm1003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## ⚡ Tech Stack & Tools
