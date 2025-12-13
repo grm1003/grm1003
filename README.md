@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/grm1003">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+Kafka;Building+Scalable+Backends;1M%2B+Users+Impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Software+Engineer;Java+%7C+Python+%7C+Kafka;GenAI+%26+RAG+Solutions;1M%2B+Users+Impact" alt="Typing SVG" />
   </a>
 </div>
 
