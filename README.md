@@ -1,5 +1,11 @@
 ### Hi! I'm Gabriel Machado 👋
 
+<div align="center">
+  <a href="https://github.com/grm1003">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+Kafka;Building+Scalable+Backends;1M%2B+Users+Impact" alt="Typing SVG" />
+  </a>
+</div>
+
 🚀 **Software Engineer** specialized in **Backend** and **Generative AI Solutions**.
 
 I engineer high-throughput systems for the financial sector, designing secure, event-driven microservices that support **1M+ users**. Currently, I am leveraging **LLMs** and **RAG architectures** to automate Developer Experience (DevEx) and governance pipelines at **Bradesco**.
@@ -26,12 +32,7 @@ I engineer high-throughput systems for the financial sector, designing secure, e
 ---
 
 <div align="center">
-  <a href="https://github.com/grm1003">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grm1003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grm1003&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grm1003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/grm1003/grm1003/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## ⚡ Tech Stack & Tools
