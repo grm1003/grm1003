@@ -21,7 +21,7 @@ I engineer high-throughput systems for the financial sector, designing secure, e
   <a href="https://github.com/grm1003" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-grm1003-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-rezende-machado-920b18183/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-rezende-machado?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
    <a href="mailto:grm1003@gmail.com" target="_blank">
